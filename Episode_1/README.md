@@ -15,4 +15,6 @@ See how the different object stick to themselves, and it’s really hard to tell
 
 But add just one bit of information, namely **differential phase**, to the picture… and everything changes. Suddenly the information set is rich enough so the objects group themselves nicely. This was the missing puzzle!
 
+[<img src="Plankton_spotting.gif" width="800">]
+
 At Enigma Pattern, we work with **Radars**, and enrich their algorithms with **deep neural networks**.
