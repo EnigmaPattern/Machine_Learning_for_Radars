@@ -4,7 +4,7 @@ Can a weather radar spot plankton? Can it tell birds from rain?
 
 Well, obviously, it can. But only if it pays attention to a LOT of details. 
 
-Here we present a latent 2d space calculated from:
+Here we present a latent 2d space calculated from:<br/>
 • **radial velocity**,<br/>
 • **reflectivity**,<br/>
 • **spectrum width**,<br/>
