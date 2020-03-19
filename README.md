@@ -21,3 +21,13 @@ Enigma Pattern team
 
 #### [3. Can you look inside a neural network trained on a radar data?](Artefacts/Episode_3/)</br>
 [<img src="Artefacts/thumbnails/thumb_3.png" width=200>](Artefacts/Episode_3/)
+
+***
+
+#### [4. How do neural networks organize the radar data?](Artefacts/Episode_4/)</br>
+[<img src="Artefacts/thumbnails/thumb_4.png" width=200>](Artefacts/Episode_4/)
+
+***
+
+#### [5. Can neural networks, charged with radar data, predict future?](Artefacts/Episode_5/)</br>
+[<img src="Artefacts/thumbnails/thumb_5.png" width=200>](Artefacts/Episode_5/)
