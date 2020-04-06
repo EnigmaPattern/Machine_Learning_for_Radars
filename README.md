@@ -9,6 +9,16 @@ Enigma Pattern team
 
 ***
 
+#### [9. Can we understand how Artificial Intelligence uses radar data?](Artefacts/Episode_9/)</br>
+[<img src="Artefacts/thumbnails/thumb_9.png" width=200>](Artefacts/Episode_9/)
+
+***
+
+#### [8. How does a radar see WiFi or LTE?](Artefacts/Episode_8/)</br>
+[<img src="Artefacts/thumbnails/thumb_8.png" width=200>](Artefacts/Episode_8/)
+
+***
+
 #### [7. Can neural networks surpass the most sophisticated weather prediction models?](Artefacts/Episode_7/)</br>
 [<img src="Artefacts/thumbnails/thumb_7.png" width=200>](Artefacts/Episode_7/)
 
